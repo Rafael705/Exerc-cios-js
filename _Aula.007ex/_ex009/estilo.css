@@ -1,0 +1,27 @@
+*{
+    font-family:sans-serif;
+}
+
+body{
+    background: #5c06cc;
+}
+
+header{
+    text-align: center;
+
+}
+section{
+
+    background: white;
+    border-radius: 8px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.425)
+}
+
+footer{
+   color: whitesmoke;
+   text-align: center;
+   font-style: italic;
+}
